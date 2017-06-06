@@ -1,0 +1,5 @@
+id,parent_id,rank,full_name,rank_name,gbif,taxref
+0,,FAMILIA,A,A,10,1
+1,0,GENUS,A a,a,20,2
+2,1,SPECIES,A a 2,1,30,3
+3,1,SPECIES,A a 1,2,40,4
