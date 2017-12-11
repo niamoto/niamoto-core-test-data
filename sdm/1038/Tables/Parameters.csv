@@ -1,0 +1,2 @@
+"","data","metric","PA","cv","cv.param","axes.metric","kept.model","ensemble.metric","ensemble.thresh","weight","algorithms","rep"
+"1","presence-only data set","Kappa",TRUE,"holdout","|0.7|1","Pearson",10,".AUC","|0.75",TRUE,".GLM.GAM.MARS.GBM.CTA.RF.MAXENT.ANN.SVM",10
